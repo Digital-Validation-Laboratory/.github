@@ -1,2 +1,2 @@
-# Digital Validation Laboratory
-A software toolbox for optimising engineering simulation validation experiments.
+# Computer Aided Validation Laboratory
+We make software to reduce the cost of engineering simulation validation experiments for high value components.
